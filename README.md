@@ -33,8 +33,8 @@ There is no backdoor, everything is stored on your computer. <br>
 ![sistem2](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/beeb36b1-6dc9-48e3-b3b7-af2caf5f3b23)
 
 # Vazno / Important
-Ukoliko budete imali nekih problema prilikom instalacije, slobodno me kontaktirajte na instagramu, facebooku, discordu ili otvorite issue ticket.
-If you have any problems during installation, feel free to contact me on Instagram, Facebook, Discord or open an issue ticket.
-Postoji greska kod kreiranja operatera, nije preveden panel i dugme... Prevedeno je, slikano je prilikom debuga.
-There is mistake with registering new user, panel and button are not translated... Yes it is, photos are from debugging.
+Ukoliko budete imali nekih problema prilikom instalacije, slobodno me kontaktirajte na instagramu, facebooku, discordu ili otvorite issue ticket. <br>
+If you have any problems during installation, feel free to contact me on Instagram, Facebook, Discord or open an issue ticket.<br>
+Postoji greska kod kreiranja operatera, nije preveden panel i dugme... Prevedeno je, slikano je prilikom debuga.<br>
+There is mistake with registering new user, panel and button are not translated... Yes it is, photos are from debugging.<br>
 
