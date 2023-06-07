@@ -22,16 +22,19 @@ There is no backdoor, everything is stored on your computer. <br>
 4. Korisnicko ime i lozinka su `admin` / Username and password are `admin`
 
 # Slike softvera / Images of the software
-![eng_add_user](https://github.com/acke1337/Evidentiranje2/assets/121731494/6999589e-245c-42ed-af05-39e0ec58957f)
-![eng_login](https://github.com/acke1337/Evidentiranje2/assets/121731494/acaeadf4-e8c1-4a12-9974-6bfa34458f2b)
-![eng_sistem](https://github.com/acke1337/Evidentiranje2/assets/121731494/a8ab9013-22f2-4791-8e9a-879a4339aff6)
-![login](https://github.com/acke1337/Evidentiranje2/assets/121731494/040f9487-c1e5-47de-8b8c-c9564f6ffc66)
-![reg_op](https://github.com/acke1337/Evidentiranje2/assets/121731494/071ca43c-3e8a-43ec-8f7f-30e1ad415f6f)
-![sistem1](https://github.com/acke1337/Evidentiranje2/assets/121731494/9ae9a116-57ce-4e51-b9c2-d80709936661)
-![sistem2](https://github.com/acke1337/Evidentiranje2/assets/121731494/1d106ee3-50e7-4314-bf67-13bc5934f13d)
-![about](https://github.com/acke1337/Evidentiranje2/assets/121731494/2408c333-c8bb-478d-b747-79bcfd9a8db9)
-![eng_about](https://github.com/acke1337/Evidentiranje2/assets/121731494/07f9c4c1-c5ba-41ec-9fa0-23c0178ad85e)
+![about](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/5f7b0fe6-b562-43c6-9eba-6f61d6717f38)
+![eng_about](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/e48f0882-49ab-480c-abd5-5c5a73d0dc20)
+![eng_add_user](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/3b0b179e-e207-4706-a8ed-691d474588e0)
+![eng_login](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/bcc2414b-f7b6-40f5-9bdf-d3b058058c45)
+![eng_sistem](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/c3967287-cc79-426f-bc01-b5275f2bb072)
+![login](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/be4b5b46-c018-46e0-95c8-3e44f31657ec)
+![reg_op](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/76165b00-3f17-4a17-9196-71bc5ca08c8e)
+![sistem1](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/ccb31978-bc62-4954-9504-85f1850a918e)
+![sistem2](https://github.com/acke1337/Evidentiranje2.0/assets/121731494/beeb36b1-6dc9-48e3-b3b7-af2caf5f3b23)
 
 # Vazno / Important
 Ukoliko budete imali nekih problema prilikom instalacije, slobodno me kontaktirajte na instagramu, facebooku, discordu ili otvorite issue ticket.
 If you have any problems during installation, feel free to contact me on Instagram, Facebook, Discord or open an issue ticket.
+Postoji greska kod kreiranja operatera, nije preveden panel i dugme... Prevedeno je, slikano je prilikom debuga.
+There is mistake with registering new user, panel and button are not translated... Yes it is, photos are from debugging.
+
